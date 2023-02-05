@@ -1,0 +1,9 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=84b7e3d6_002Db341_002D4a48_002D8a9f_002D9ec8505c61fb/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="AdvancedOptions" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::7193B15C-7223-4C86-803D-106FB052EA3E::net7.0::TestAutomation.Tests.AdvancedOptions&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::7193B15C-7223-4C86-803D-106FB052EA3E::net7.0::TestAutomation.Tests.EqualityAssertions&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::7193B15C-7223-4C86-803D-106FB052EA3E::net7.0::TestAutomation.Tests.TheoryTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::7193B15C-7223-4C86-803D-106FB052EA3E::net7.0::TestAutomation.Tests.Tests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
